@@ -40,6 +40,10 @@ footer p {
 
 .note {
   background: #fff;
+  background-color: #cccccc;
+  background-image: url(http://www.transparenttextures.com/patterns/brick-wall-dark.png);
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+  /*from: https://www.transparenttextures.com/*/
   border-radius: 7px;
   box-shadow: 0 2px 5px #ccc;
   padding: 10px;
@@ -68,6 +72,10 @@ body {
   max-width: 400px;
   min-width: 400px;
   background-color: #dfe6e9;
+  background-color: #cccccc;
+background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-dark.png");
+/* from: https://www.transparenttextures.com/
+ This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
   text-align: center;
 
 }
